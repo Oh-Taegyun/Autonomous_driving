@@ -27,7 +27,7 @@
 ### 2. 주행 목표 및 주행 영상
 ---
 
-<video src="./영상/주행 영상.mp4" controls autoplay loop></video>
+<video src="https://github.com/Oh-Taegyun/Autonomous_driving/blob/main/%EC%98%81%EC%83%81/%EC%A3%BC%ED%96%89%20%EC%98%81%EC%83%81.mp4" controls autoplay loop></video>
 <img src = "./image/image4.png">  
 
 <br>
