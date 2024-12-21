@@ -26,8 +26,8 @@
 
 ### 2. 주행 목표 및 주행 영상
 ---
-<img src = "./image/주행 영상.gif">  
-<video src="/영상/주행 영상.mp4" controls autoplay loop></video>
+
+<video src="./영상/주행 영상.mp4" controls autoplay loop></video>
 <img src = "./image/image4.png">  
 
 <br>
